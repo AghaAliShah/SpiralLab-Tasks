@@ -1,6 +1,0 @@
-streamlit
-yt-dlp
-openai
-faster-whisper
-python-dotenv
-flask
