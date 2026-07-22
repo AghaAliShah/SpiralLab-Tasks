@@ -1,0 +1,12 @@
+# secrets & env
+.env
+.streamlit/secrets.toml
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# runtime data
+cache/
